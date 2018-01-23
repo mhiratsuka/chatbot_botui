@@ -9,4 +9,4 @@ I made this to understand how to use BotUI and know the structure of it. And to 
 HTML, Javascript, BotUI
 
 ### Screenshot
-
+![chatbotscreenshot](https://user-images.githubusercontent.com/24946941/35251851-2718e208-ff92-11e7-9b07-f10e2f61805e.PNG)
